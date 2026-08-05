@@ -1,66 +1,94 @@
-```markdown
-# 👋 Gabriele Iris
+# Gabriele Iris
 
-### 💻 Full Stack Developer | Estudante de Desenvolvimento de Software
+### Full Stack Developer | Software Development Student
 
-Desenvolvedora Full Stack apaixonada por tecnologia e desenvolvimento de software. Gosto de criar aplicações escaláveis, aprender novas tecnologias e transformar ideias em soluções práticas.
-
----
-
-## 🚀 Sobre mim
-
-- 🌱 Atualmente aprimorando conhecimentos em Arquitetura de Software e APIs REST.
-- 💡 Interesse em desenvolvimento Back-end e Front-end.
-- 🎯 Foco em escrever código limpo, organizado e de fácil manutenção.
-- 📚 Sempre aprendendo novas tecnologias e boas práticas de desenvolvimento.
+Tenho interesse em transformar ideias em aplicações funcionais e bem estruturadas. Atualmente concentro meus estudos no desenvolvimento Full Stack, com foco em Back-end, bancos de dados e arquitetura de software, sempre buscando escrever código organizado, escalável e de fácil manutenção.
 
 ---
 
-## ✨ Além do código
+## Atualmente
 
-Quando não estou programando, gosto de:
-
-- 📚 Ler livros.
-- 🚴 Andar de bicicleta.
-- 📺 Maratonar séries (quanto mais rápido, melhor 😄).
-- ☕ Aprender coisas novas e explorar novas tecnologias.
+* Estudando **Node.js**, **Java**, **PostgreSQL**, **Prisma ORM** e **APIs REST**.
+* Aprimorando conhecimentos em **Arquitetura de Software** e boas práticas de desenvolvimento.
+* Desenvolvendo projetos Full Stack para fortalecer meu portfólio.
+* Buscando oportunidades para crescer profissionalmente como desenvolvedora.
 
 ---
 
-## 💻 Tech Stack
+## Interesses
 
-### 🚀 Backend
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+* Desenvolvimento Back-end
+* Desenvolvimento Web Full Stack
+* APIs REST
+* Banco de Dados
+* Arquitetura de Software
+* Clean Code
+* Versionamento com Git
+
+---
+
+## Tecnologias
+
+### Linguagens
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java" alt="Java"/>
+  <img src="https://skillicons.dev/icons?i=python" alt="Python"/>
+  <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript"/>
+  <img src="https://skillicons.dev/icons?i=html" alt="HTML5"/>
+  <img src="https://skillicons.dev/icons?i=css" alt="CSS3"/>
 </p>
 
-### 🎨 Frontend
 <p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+Java • Python • JavaScript • HTML5 • CSS3
 </p>
 
-### 🗄️ Banco de Dados
-<p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+### Back-end
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js"/>
+  <img src="https://skillicons.dev/icons?i=flask" alt="Flask"/>
 </p>
 
-### ⚙️ Ferramentas
 <p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
+Node.js • Flask
+</p>
+
+### Banco de Dados
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL"/>
+  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL"/>
+</p>
+
+<p>
+PostgreSQL • MySQL
 </p>
 
 ---
 
-## 📫 Contato
+## GitHub Stats
 
-📧 **E-mail:** gabrieleiris000@gmail.com
-```
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## Contato
+
+**Email:** [gabrieleiris000@gmail.com](mailto:gabrieleiris000@gmail.com)
+
+**LinkedIn:** 
+
+**GitHub:** https://github.com/gabrieleisousa
+
+---
+
+## Sobre Mim
+
+Além da programação, gosto de aprender novas tecnologias, ler, andar de bicicleta e assistir séries. Acredito que aprender continuamente é uma das partes mais interessantes da área de desenvolvimento de software.
+
+> *"Always learning, always building."*
