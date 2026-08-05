@@ -1,6 +1,6 @@
 # Gabriele Iris
 
-### Full Stack Developer | Software Development Student
+### Desenvolvedora Full Stack  | Estudante de Desenvolvimento de Software
 
 Tenho interesse em transformar ideias em aplicações funcionais e bem estruturadas. Atualmente concentro meus estudos no desenvolvimento Full Stack, com foco em Back-end, bancos de dados e arquitetura de software, sempre buscando escrever código organizado, escalável e de fácil manutenção.
 
